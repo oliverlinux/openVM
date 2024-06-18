@@ -1,0 +1,15 @@
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.csproj.AssemblyReference.cache
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.AssemblyInfoInputs.cache
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.AssemblyInfo.cs
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.csproj.CoreCompileInputs.cache
+/Users/oliver/Projects/MyNewVM/MyNewVM/bin/Debug/net7.0/MyNewVM
+/Users/oliver/Projects/MyNewVM/MyNewVM/bin/Debug/net7.0/MyNewVM.deps.json
+/Users/oliver/Projects/MyNewVM/MyNewVM/bin/Debug/net7.0/MyNewVM.runtimeconfig.json
+/Users/oliver/Projects/MyNewVM/MyNewVM/bin/Debug/net7.0/MyNewVM.dll
+/Users/oliver/Projects/MyNewVM/MyNewVM/bin/Debug/net7.0/MyNewVM.pdb
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.dll
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/refint/MyNewVM.dll
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.pdb
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/MyNewVM.genruntimeconfig.cache
+/Users/oliver/Projects/MyNewVM/MyNewVM/obj/Debug/net7.0/ref/MyNewVM.dll
